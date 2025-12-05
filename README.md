@@ -124,10 +124,12 @@ Clean functional programming style in Assignment 2
 Passing test results for both assignments
 A single public GitHub repository containing everything
 
+Here are the attached screenshots of expected outputs from both assignment 1 & 2 for reference: 
+
 
 
 
 ![Image 12-4-25 at 6 43 PM](https://github.com/user-attachments/assets/f30bcc23-12d9-4d3f-9ef9-6b1b7a176956)
 
 
-![Image 12-4-25 at 6 50 PM](https://github.com/user-attachments/assets/2ae21c3a-dce2-4f20-b87a-6bb05c619c3c)
+![Image 12-4-25 at 6 50 PM](https://github.com/user-attachments/assets/2e1f9000-ce21-401b-8df0-bd5f7047ee22)
